@@ -1,0 +1,5 @@
+﻿Tipo;Caso;Situación;Dato pendiente;Próxima acción;Responsable;Cuándo;Envío confirmado;Respuesta registrada;Resultado
+EJEMPLO FICTICIO;EJ-01;Consulta sin resolver;Confirmar si incluye colocación;Resolver la duda y aprobar el borrador;Referente del negocio;Después de confirmar el dato;No;Sin dato;Pendiente
+EJEMPLO FICTICIO;EJ-02;Presupuesto vencido;Precio y vigencia actuales;Actualizar condiciones antes de contactar;Referente del negocio;Después de validar condiciones;No;Sin dato;Pendiente
+EJEMPLO FICTICIO;EJ-03;Obra postergada;Fecha acordada con comprador;Agendar seguimiento para la fecha acordada;Referente del negocio;A confirmar con el negocio;No;Sin dato;En espera
+EJEMPLO FICTICIO;EJ-04;Solicitud de baja;Ninguno;Excluir de nuevos seguimientos;Referente del negocio;Desde el registro de la baja;No corresponde;Pidió no recibir mensajes;Cerrado por baja
