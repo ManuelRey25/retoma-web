@@ -1,7 +1,7 @@
 services:
   - type: web
     runtime: static
-    name: retoma-seguimiento
+    name: retomar-seguimiento
     buildCommand: echo "Sitio estático sin dependencias"
     staticPublishPath: public
     autoDeploy: false
